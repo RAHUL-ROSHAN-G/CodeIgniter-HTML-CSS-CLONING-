@@ -1,1 +1,2 @@
-# CodeIgniter-HTML-CSS-CLONING-
+# CodeIgniter-HTML-CSS-CLONING
+Download the file open html file in browser.
