@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-*
-{
-    scroll-behavior: smooth;
+/*Certain types of motion-based animations can cause discomfort for some users. In particular, people with vestibular disorders have sensitivity to certain motion triggers. so we use this @media.*/
+@media (prefers-reduced-motion: no-preference){
+    *{
+  scroll-behavior: smooth;
+    }
 }
 body
 {
