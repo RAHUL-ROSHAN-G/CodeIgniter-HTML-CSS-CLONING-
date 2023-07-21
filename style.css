@@ -1,14 +1,8 @@
-/* *{
- color:#dd4814;
-background-color:#252525;
-background-color: 
-#111111
-#fafafa
-#ffffff
-#f4f4f4 */
-
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-
+*
+{
+    scroll-behavior: smooth;
+}
 body
 {
     font-family: 'Raleway', sans-serif;
